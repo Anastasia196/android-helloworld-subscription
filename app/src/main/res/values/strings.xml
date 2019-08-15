@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">AndroidSubscription</string>
+    <string name="app_name">Подписка</string>
+    <string name="username">Имя пользователя</string>
+    <string name="email">Электронная почта</string>
+    <string name="submit">OK</string>
+    <string name="clear">Очистить</string>
+    <string name="status">Подписка на рассылку успешно оформлена для пользователя %s на электронный адрес %s</string>
 </resources>
